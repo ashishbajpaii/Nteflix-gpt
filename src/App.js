@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="text-3xl font-bold text-green-800">
      
-     Namaste Everyones
+    hi hi hi hi Namaste React
     </div>
   );
 }
